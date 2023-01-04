@@ -72,6 +72,10 @@ Follow me on
 <a href ="https://twitter.com/alihassanrevel">
     <img align="left" alt="Revel Twitter" width="25px" src="https://pbs.twimg.com/profile_images/1488548719062654976/u6qfBBkF_400x400.jpg">
 </a>
+<a href="https://www.linkedin.com/in/ali-hassan-5b9463217/">
+    <img alt="Revel's LinkedIn" width="30px"
+    src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg">
+</a>
 <a href="https://github.com/alihassanrevel">
     <img alt="Revel's github" width="25px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
 </a>
