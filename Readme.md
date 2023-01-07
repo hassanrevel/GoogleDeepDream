@@ -16,16 +16,10 @@ And the model will output following
 
 ## Following are the steps to implement my GoogleDeepDream model
 
-1. Build the package in your system with following commands
+1. Install the package in your system with following commands
 
 ```commandline
-cd GoogleDeepDream
-```
-```commandline
-pip install .
-```
-```commandline
-cd ..
+python GoogleDeepDream/setup.py install
 ```
 
 2. Implement the model whether the image is stored remote or local
